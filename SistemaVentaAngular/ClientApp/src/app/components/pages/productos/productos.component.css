@@ -2,8 +2,12 @@
 table {
   width: 100%;
 }
+.mat-raised-button {
+  background-color: #FF116F;
+}
 
 .mat-form-field {
   font-size: 14px;
   width: 100%;
+
 }
